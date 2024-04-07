@@ -1,3 +1,3 @@
 default weather-app js.
 
-https://github.com/fromajkaz/simple-weather-app-js/screenshot-weatherApp.png
+https://github.com/fromajkaz/simple-weather-app-js/blob/main/screenshot-weatherApp.png
